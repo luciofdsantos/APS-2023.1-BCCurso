@@ -17,7 +17,7 @@ A Segunda seção **O que é o <nome_projeto_aqui>** apresenta o significado do 
 A terceira e última seção  **Desenvolvedores** apresenta os colaboradores do repositório. Adicione uma tabela com os membros do grupo da disciplina. A tabela deve ter 4 colunas (Foto, Nome, GitHub, papel no projeto). GitHub é o endereço para o repositório do aluno e o papel no projeto deve indicar as atividades realizadas tanto no desenvolvimento quanto na documentação. 
 
 
-# ** Divisão dos diretórios **
+# **Divisão dos diretórios**
 
 O repositório será dividido em dois diretórios: `docs`, `src` e `HOW-TO`. 
 
