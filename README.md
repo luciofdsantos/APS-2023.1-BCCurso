@@ -4,13 +4,13 @@
 
 # **Sobre o Projeto**
 
-A primeira seção **Sobre o Projeto** deve apresentar a finalidade do projeto e do repositório, por exemplo:  
+Repositório destinado ao desenvolvimento do trabalho da disciplina Análise de Projeto de Sistemas do Instituto Federal do Norte de Minas Gerais (IFNMG - Montes Claros) do curso de Ciência da Computação. Nele estará mantido o processo de documentação de requisitos, modelagem, análise e código desenvolvido pela turma. O tema escolhido foi **Portal Ciência da Computação** , o qual foi submetidos a etapa de elicitação de requisitos, elaboração, análise do projeto e desenvolvimento do código, snedo as técnicas utilizadas em conformidade com a disciplina.
 
-"Repositório destinado ao desenvolvimento do trabalho da disciplina Análise de Projeto de Sistemas do Instituto Federal do Norte de Minas Gerais (IFNMG - Montes Claros) do curso de Ciência da Computação. Nele estará mantido o processo de documentação de requisitos, modelagem, análise e código desenvolvido pela turma. O tema escolhido foi **<nome_projeto_aqui>** , o qual foi submetidos a etapa de elicitação de requisitos, elaboração, análise do projeto e desenvolvimento do código, snedo as técnicas utilizadas em conformidade com a disciplina. "
+#  **O que é o Portal Ciência da Computação**
 
-#  **O que é o <nome_projeto_aqui>**
+O **Portal Ciência da Computação** é um sistema de gerenciamento de conteúdo (CMS - Content Management System), trata-se de um web site que mantem de forma atualizada informações do curso.
 
-A Segunda seção **O que é o <nome_projeto_aqui>** apresenta o significado do tema do projeto escolhido. Assim, adicione um parágrafo ou dois para possibilitar o entendimento do domínio do projeto. 
+O principal objetivo do **Portal Ciência da Computação** é fortalecer a comunicação entre a comunidade acadêmica e sociedade, centralizando as informações e atividades desenvolvidas no meio acadêmico referente ao curos. No **Portal Ciência da Computação** é possível encontrar projetos em andamentos, TCC's, notícias, colegiados, além de informações do curso como grade de horários, matriz do curso e PPC.
 
 # **Desenvolvedores**
 
