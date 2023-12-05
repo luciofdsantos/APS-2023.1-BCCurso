@@ -16,6 +16,18 @@ O principal objetivo do **Portal Ciência da Computação** é fortalecer a comu
 
 A terceira e última seção  **Desenvolvedores** apresenta os colaboradores do repositório. Adicione uma tabela com os membros do grupo da disciplina. A tabela deve ter 4 colunas (Foto, Nome, GitHub, papel no projeto). GitHub é o endereço para o repositório do aluno e o papel no projeto deve indicar as atividades realizadas tanto no desenvolvimento quanto na documentação. 
 
+| Foto | Nome | Github | Papel |
+| --- | --- | --- | --- |
+| <img src="https://github.com/fboasorte.png" width="60px;"/><br /> | Felipe Boa Sorte | https://github.com/fboasorte | Gerente, Desenvolvedor |
+| <img src="https://github.com/gabrielsizilio.png" width="60px;"/><br /> | Gabriel Sizilio | https://github.com/gabrielsizilio | Desenvol |
+| <img src="https://github.com/AnnaLauton.png" width="60px;"/><br /> | Anna Júlia | https://github.com/AnnaLauton | Desenvolvedora |
+| <img src="https://github.com/joao314159.png" width="60px;"/><br /> | João Duarte | https://github.com/joao314159 | Desenvolvedor |
+| <img src="https://github.com/Filip3ra.png" width="60px;"/><br /> | Filipi Maciel  | https://github.com/Filip3ra | Desenvolvedor |
+| <img src="https://github.com/CauaRibeiroXY.png" width="60px;"/><br /> | Cauã Ribeiro  | https://github.com/CauaRibeiroXY | Desenvolvedor |
+| <img src="https://github.com/yodemisj.png" width="60px;"/><br /> | Yodemis Júnior  | https://github.com/yodemisj | Desenvolvedor |
+| <img src="https://github.com/Lucasfgm.png" width="60px;"/><br /> | Lucas Flávio | https://github.com/Lucasfgm | Desenvolvedor |
+| <img src="https://github.com/MatteusFelippe.png" width="60px;"/><br /> | Matteus Felippe | https://github.com/MatteusFelippe | Desenvolvedor |
+
 
 # **Divisão dos diretórios**
 
