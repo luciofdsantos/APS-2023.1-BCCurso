@@ -28,6 +28,8 @@ A terceira e última seção  **Desenvolvedores** apresenta os colaboradores do 
 | <img src="https://github.com/Lucasfgm.png" width="60px;"/><br /> | Lucas Flávio | https://github.com/Lucasfgm | No Projeto de Arquitetura: Visão de Casos de Uso |
 | <img src="https://github.com/MatteusFelippe.png" width="60px;"/><br /> | Matteus Felippe | https://github.com/MatteusFelippe | No Projeto de Arquitetura: Visão Geral, Tamanho e Desempenho, Qualidade |
 | <img src="https://github.com/RianAL25.png" width="60px;"/><br /> | Rian Alves | https://github.com/RianAL25 | No Projeto de Arquitetura: Introdução e Representação |
+| <img src="https://github.com/Gustavornd.png" width="60px;"/><br /> | Gustavo Rafael | https://github.com/Gustavornd |  |
+| <img src="https://github.com/Macedo-SF.png" width="60px;"/><br /> | Saulo Macedo | https://github.com/Macedo-SF |  |
 
 
 # **Divisão dos diretórios**
