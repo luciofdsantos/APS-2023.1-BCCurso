@@ -18,15 +18,16 @@ A terceira e última seção  **Desenvolvedores** apresenta os colaboradores do 
 
 | Foto | Nome | Github | Papel |
 | --- | --- | --- | --- |
-| <img src="https://github.com/fboasorte.png" width="60px;"/><br /> | Felipe Boa Sorte | https://github.com/fboasorte | Gerente, Desenvolvedor |
-| <img src="https://github.com/gabrielsizilio.png" width="60px;"/><br /> | Gabriel Sizilio | https://github.com/gabrielsizilio | Desenvol |
-| <img src="https://github.com/AnnaLauton.png" width="60px;"/><br /> | Anna Júlia | https://github.com/AnnaLauton | Desenvolvedora |
+| <img src="https://github.com/fboasorte.png" width="60px;"/><br /> | Felipe Boa Sorte | https://github.com/fboasorte | Gerente, Desenvolvedor <br> No Projeto de Arquitetura: Visão de Implantação |
+| <img src="https://github.com/gabrielsizilio.png" width="60px;"/><br /> | Gabriel Sizilio | https://github.com/gabrielsizilio | Gerencia TCC, Gerencia Banca, Gerencia Colegiado, Gerencia Ata.<br> Em Projeto de Arquitetura: Visão Lógica |
+| <img src="https://github.com/AnnaLauton.png" width="60px;"/><br /> | Anna Júlia | https://github.com/AnnaLauton | No Projeto de Arquitetura: Visão Geral, Tamanho e Desempenho, Qualidade |
 | <img src="https://github.com/joao314159.png" width="60px;"/><br /> | João Duarte | https://github.com/joao314159 | Desenvolvedor |
-| <img src="https://github.com/Filip3ra.png" width="60px;"/><br /> | Filipi Maciel  | https://github.com/Filip3ra | Desenvolvedor |
-| <img src="https://github.com/CauaRibeiroXY.png" width="60px;"/><br /> | Cauã Ribeiro  | https://github.com/CauaRibeiroXY | Desenvolvedor |
-| <img src="https://github.com/yodemisj.png" width="60px;"/><br /> | Yodemis Júnior  | https://github.com/yodemisj | Desenvolvedor |
-| <img src="https://github.com/Lucasfgm.png" width="60px;"/><br /> | Lucas Flávio | https://github.com/Lucasfgm | Desenvolvedor |
-| <img src="https://github.com/MatteusFelippe.png" width="60px;"/><br /> | Matteus Felippe | https://github.com/MatteusFelippe | Desenvolvedor |
+| <img src="https://github.com/Filip3ra.png" width="60px;"/><br /> | Filipi Maciel  | https://github.com/Filip3ra | No Projeto de Arquitetura: Visão de Dados, Referências, Definições, Acrônimos e Abreviações |
+| <img src="https://github.com/CauaRibeiroXY.png" width="60px;"/><br /> | Cauã Ribeiro  | https://github.com/CauaRibeiroXY | No Projeto de Arquitetura: Introdução, Representação eVisão de Implantação |
+| <img src="https://github.com/yodemisj.png" width="60px;"/><br /> | Yodemis Júnior  | https://github.com/yodemisj | No Projeto de Arquitetura: Representação, Visão Implementação |
+| <img src="https://github.com/Lucasfgm.png" width="60px;"/><br /> | Lucas Flávio | https://github.com/Lucasfgm | No Projeto de Arquitetura: Visão de Casos de Uso |
+| <img src="https://github.com/MatteusFelippe.png" width="60px;"/><br /> | Matteus Felippe | https://github.com/MatteusFelippe | No Projeto de Arquitetura: Visão Geral, Tamanho e Desempenho, Qualidade |
+| <img src="https://github.com/RianAL25.png" width="60px;"/><br /> | Rian Alves | https://github.com/RianAL25 | No Projeto de Arquitetura: Introdução e Representação |
 
 
 # **Divisão dos diretórios**
