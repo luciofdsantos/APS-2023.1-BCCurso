@@ -1,6 +1,6 @@
 # Documentação do Projeto
 
-1. [Visão do Negócio](https://github.com/seu-usuario/seu-repositorio/blob/main/visao_do_negocio.md)
+1. [Visão do Negócio](docs/Visao_do_Negocio.docx.pdf)
 2. [Casos de Uso](https://github.com/seu-usuario/seu-repositorio/blob/main/casos_de_uso.md)
 3. [Diagrama de Domínio](https://github.com/seu-usuario/seu-repositorio/blob/main/diagrama_de_dominio.md)
 4. [Diagrama de Sequência de Sistema](https://github.com/seu-usuario/seu-repositorio/blob/main/diagrama_de_sequencia_de_sistema.md)
