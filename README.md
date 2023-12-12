@@ -18,10 +18,10 @@ O principal objetivo do **Portal Ciência da Computação** é fortalecer a comu
 | --- | --- | --- | --- |
 | <img src="https://github.com/fboasorte.png" width="60px;"/><br /> | Felipe Boa Sorte | https://github.com/fboasorte | Gerente de Desenvolvimento, Desenvolvedor Back-end, Responsável pela implantação do servidor |
 | <img src="https://github.com/gabrielsizilio.png" width="60px;"/><br /> | Gabriel Sizilio | https://github.com/gabrielsizilio | Desenvolvedor Back-end |
-| <img src="https://github.com/AnnaLauton.png" width="60px;"/><br /> | Anna Júlia | https://github.com/AnnaLauton | Desenvolvedor Front-end,  Desenvolvedor Back-end |
+| <img src="https://github.com/AnnaLauton.png" width="60px;"/><br /> | Anna Júlia | https://github.com/AnnaLauton | Gerente de Design, Desenvolvedor Front-end,  Desenvolvedor Back-end |
 | <img src="https://github.com/joao314159.png" width="60px;"/><br /> | João Duarte | https://github.com/joao314159 | Desenvolvedor Front-end |
 | <img src="https://github.com/Filip3ra.png" width="60px;"/><br /> | Filipi Maciel  | https://github.com/Filip3ra | Desenvolvedor Front-end |
-| <img src="https://github.com/CauaRibeiroXY.png" width="60px;"/><br /> | Cauã Ribeiro  | https://github.com/CauaRibeiroXY | Desenvolvedor Front-end, Responsável pela implantação do servidor |
+| <img src="https://github.com/CauaRibeiroXY.png" width="60px;"/><br /> | Cauã Ribeiro  | https://github.com/CauaRibeiroXY | Desenvolvedor Front-end, Desenvolvedor Back-end, Responsável pela implantação do servidor |
 | <img src="https://github.com/yodemisj.png" width="60px;"/><br /> | Yodemis Júnior  | https://github.com/yodemisj |  Desenvolvedor Back-end |
 | <img src="https://github.com/Lucasfgm.png" width="60px;"/><br /> | Lucas Flávio | https://github.com/Lucasfgm |  Desenvolvedor Back-end |
 | <img src="https://github.com/MatteusFelippe.png" width="60px;"/><br /> | Matteus Felippe | https://github.com/MatteusFelippe |  Desenvolvedor Back-end, Desemvolvedor Front-end |
