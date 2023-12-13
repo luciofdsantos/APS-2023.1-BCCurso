@@ -12,6 +12,7 @@ Gostaríamos de expressar nosso apreço pelo esforço dedicado até agora ao des
 
 ### A. Design e Usabilidade
 - Elogiamos a abordagem intuitiva e o design amigável da interface do usuário. Isso contribui significativamente para uma experiência do usuário positiva.
+  
 [Cauã](https://github.com/CauaRibeiroXY) muitas decisões de design foram tomadas com base no conhecimento nosso, isso significa que devem existir soluções mais agradáveis visualmente mas escolhemos as melhores com base no conhecimento do momento. 
 
 ### B. Cumprimento de Prazos
