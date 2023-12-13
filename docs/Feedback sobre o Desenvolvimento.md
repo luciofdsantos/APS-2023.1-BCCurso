@@ -46,6 +46,7 @@ Gostaríamos de expressar nosso apreço pelo esforço dedicado até agora ao des
 
 - [Cauã](https://github.com/CauaRibeiroXY) como uma base de desenvolvimento melhor, esse software teria sido melhor desenvolvido. Falta de comunicação entre todas as pessoas e entre a turma do front-end e back-end atrasou algumas semanas. Não ter noção do que realmente fazer foi um dos principais problemas ao meu ver.
 - [Felipe](https://github.com/fboasorte) - acredito que este projeto foi uma experiencia muito valiosa, tanto como desenvolvedor, quanto para lidar com pessoas com diferentes bagagens e disponibilidades de tempo. Fazer o melhor uso de todos esse fatores se provou uma tarefa bem maior do que eu esperava inicialmente, mas aprender como é trabalhar com uma equipe grande foi útil.
+- [Rian](https://github.com/Rian250) - esse projeto foi interessante para uma experiência real no desenvolvimento de um sistema, ao meu ver isso ajudou a equipe a ter uma noção do que pode encontrar no mundo real e também serve de aprendizado para todos com o que foi mostrado nesse projeto, no entanto há alguns problemas que devem ser ressaltados como a falta de comunicação e também o peso de partes de desenvolvimento do projeto cair em cima de alguns. No mais foi uma boa experiência para a carreira de desenvolvedor.
 
 Agradecemos novamente pelo seu comprometimento e contribuições para o projeto. Estamos ansiosos para trabalhar juntos na implementação dessas melhorias e no sucesso contínuo do Portal da Ciência da Computação.
 
