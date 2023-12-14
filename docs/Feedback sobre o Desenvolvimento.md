@@ -19,21 +19,24 @@ Gostaríamos de expressar nosso apreço pelo esforço dedicado até agora ao des
 - Valorizamos a pontualidade nas entregas. O cumprimento consistente dos prazos é crucial para o sucesso do projeto e contribui para a confiança da equipe.
 - [Cauã](https://github.com/CauaRibeiroXY) creio que a falta de conhecimento sobre desenvolvimento de software e a pouca comunicação atrapalhou alguns prazos.
 - [Felipe](https://github.com/fboasorte) - a falta de comunicação e experiência por parte dos membros atrapalhou o cumprimento dos prazos, além de que alguns membros não buscaram ajuda nas dificuldades.
+- [Saulo](https://github.com/Macedo-SF) - houveram atrasos de entrega durante todo o desenvolvimento, inicialmente os atrasos ocorreram majoritariamente pela dificuldade de desenvolver com uma nova tecnologia, após o impedimento da entrega final na primeira data estabelecida, não houveram definições de entregas robustas, salvo algumas exceções.
 
 ### C. Colaboração e Comunicação
 - A comunicação eficiente e a colaboração ativa entre os membros da equipe são aspectos fundamentais. Agradecemos os esforços em manter linhas de comunicação claras e abertas.
 - [Cauã](https://github.com/CauaRibeiroXY) senti falta de uma plataforma de comunicação melhor, para poder ver o que cada um estava fazendo de tarefa, sendo que isso eu ficava sabendo apenas na aula. Também senti falta de ter um coordenador do projeto definido desde o início, as coisas teriam sido mais fáceis.
 - [Felipe](https://github.com/fboasorte) - senti a falta de comunicação entre equipes, acho que havendo um reunião semanal para alihamento de ideias teria ajudado imensamente
+- [Saulo](https://github.com/Macedo-SF) - julgo que de forma geral não houve muita comunicação, fora a comunicação entre grupos e indivíduos com afinidades prévias, a comunicação só acontecia anterior à data de entrega ou quando havia uma outra cobrança. O esforço não foi bem coordenado, julgo que a definição de um gerente de projeto talvez tivesse facilitado a colaboração e comunicação entre os membros. O slack não foi uma ferramenta eficiente e boa parte da comunicação que de fato rendeu resultados foi realizada por outros canais.
 
 ## 2. Áreas de Melhoria
 
 ### A. Testes/Código Software
 - Recomendamos uma revisão mais abrangente dos testes de software. Identificamos algumas áreas onde melhorias podem ser feitas para garantir a robustez e a confiabilidade do sistema.
-- [Cauã](https://github.com/CauaRibeiroXY) é possível abstrair os codigos das <div> iniciais em views, usando como uma chamada no layout header.
+- [Cauã](https://github.com/CauaRibeiroXY) é possível abstrair os codigos das '<div>' iniciais em views, usando como uma chamada no layout header.
 - [Felipe](https://github.com/fboasorte) - adicionar testes automatizados para evitar problemas com novas funcionalidades
 
 ### B. Documentação do Código
 - Solicitamos uma atenção especial à documentação do código-fonte. Uma documentação completa facilita a manutenção futura e garante uma transição suave para outros membros da equipe.
+- [Saulo](https://github.com/Macedo-SF) - é necessária a criação de um repositório unificado para o desenvolvimento e compartilhamento dos documentos, assim como a definição de um padrão para os diagramas.
 
 ## 3. Próximos Passos
 
@@ -46,6 +49,7 @@ Gostaríamos de expressar nosso apreço pelo esforço dedicado até agora ao des
 
 - [Cauã](https://github.com/CauaRibeiroXY) como uma base de desenvolvimento melhor, esse software teria sido melhor desenvolvido. Falta de comunicação entre todas as pessoas e entre a turma do front-end e back-end atrasou algumas semanas. Não ter noção do que realmente fazer foi um dos principais problemas ao meu ver.
 - [Felipe](https://github.com/fboasorte) - acredito que este projeto foi uma experiencia muito valiosa, tanto como desenvolvedor, quanto para lidar com pessoas com diferentes bagagens e disponibilidades de tempo. Fazer o melhor uso de todos esse fatores se provou uma tarefa bem maior do que eu esperava inicialmente, mas aprender como é trabalhar com uma equipe grande foi útil.
+- [Saulo](https://github.com/Macedo-SF) - a experiência da disciplina como um projeto aplicado se mostrou mais didática e engajante, apresentando algumas dificuldades quais podem ser minizadas com a integração de uma abordagem mais rígida, tal como a definição de um gerente, assim como atribuições (reuniões, análise de progresso, coleta de feedback) e documentos (prazos, pacotes de entrega, plano de desenvolvimento e afins) referentes à gerência; e também uma introdução mais atenuada da tecnologia utilizada.
 
 Agradecemos novamente pelo seu comprometimento e contribuições para o projeto. Estamos ansiosos para trabalhar juntos na implementação dessas melhorias e no sucesso contínuo do Portal da Ciência da Computação.
 
