@@ -31,7 +31,7 @@ Gostaríamos de expressar nosso apreço pelo esforço dedicado até agora ao des
 
 ### A. Testes/Código Software
 - Recomendamos uma revisão mais abrangente dos testes de software. Identificamos algumas áreas onde melhorias podem ser feitas para garantir a robustez e a confiabilidade do sistema.
-- [Cauã](https://github.com/CauaRibeiroXY) é possível abstrair os codigos das '<div>' iniciais em views, usando como uma chamada no layout header.
+- [Cauã](https://github.com/CauaRibeiroXY) é possível abstrair os codigos das `<div>` iniciais em views, usando como uma chamada no layout header.
 - [Felipe](https://github.com/fboasorte) - adicionar testes automatizados para evitar problemas com novas funcionalidades
 
 ### B. Documentação do Código
