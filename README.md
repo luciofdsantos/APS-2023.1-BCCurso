@@ -30,18 +30,7 @@ O principal objetivo do **Portal Ciência da Computação** é fortalecer a comu
 | <img src="https://github.com/Macedo-SF.png" width="60px;"/><br /> | Saulo Macedo | https://github.com/Macedo-SF |  |
 
 
-# **Divisão dos diretórios**
-
-O repositório será dividido em dois diretórios: `docs`, `src` e `HOW-TO`. 
-
-O diretório  `docs` deve conter todos os documentos desenvolvidos durante o projeto, sendo eles divididos em: `Visão do Negócio`, `Casos de Uso`, `Diagrama de Domínio`, `Diagrama de Sequência de Sistema`, `Especificação Suplementar` e o `Projeto de Arquitetura`, `Feedback sobre o Desenvolvimento`. 
-
-O diretório `src` é o clone do repositório que vocês utilizaram para o desenvolvimento do sistema. Detalhe importante, cuidado em deixar senhas que serão utilizadas no servidor. 
-
-O diretório `HOW-TO` é um guia sobre como subir o projeto, além de ilustrar as versões das ferramentas utilizadas. 
-
-
-Uma Maneira simples de gerar documentação usando o estilo Markdown é usando o MkDocs (https://www.mkdocs.org/), acaba criando uma página bem intuitiva para toda a documentação e é possível integrar no GitHub. 
+ 
 
 # Documentação do Projeto
 
