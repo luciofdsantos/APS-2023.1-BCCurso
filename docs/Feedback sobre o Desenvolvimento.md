@@ -42,6 +42,7 @@ Gostaríamos de expressar nosso apreço pelo esforço dedicado até agora ao des
 
 ### A. Possíveis melhorias
 - Propomos a implementação de um plano de ação para abordar os pontos de melhoria destacados. Isso pode incluir sessões de treinamento, revisões de código em conjunto e aprimoramentos contínuos.
+- [Saulo](https://github.com/Macedo-SF) - no site falta uma seção destinada à dúvidas frequentes, é um recurso comum quando o propósito é informar, além de ser um bom espaço para o coordenador sanar dúvidas quais responde com frequência.
 
 ## 4. Sugestões e Feedback Individual
 
