@@ -33,9 +33,9 @@ O principal objetivo do **Portal Ciência da Computação** é fortalecer a comu
 # Documentação do Projeto
 
 1. [Visão do Negócio](https://github.com/luciofdsantos/APS-2023.1-BCCurso/blob/a344626cfddefdb3d188645fa0c547475ea3b6d8/docs/Visao_do_Negocio.pdf)
-2. [Casos de Uso](https://github.com/seu-usuario/seu-repositorio/blob/main/casos_de_uso.md)
+2. [Casos de Uso](https://github.com/luciofdsantos/APS-2023.1-BCCurso/blob/main/docs/Casos_de_Uso.pdf)
 3. [Diagrama de Class](https://github.com/luciofdsantos/APS-2023.1-BCCurso/blob/bae3e525e69c618c1eb5f8dbf37948c39dd8f298/docs/Diagrama_de_Classe.pdf)
-4. [Diagrama de Domínio](https://github.com/seu-usuario/seu-repositorio/blob/main/diagrama_de_dominio.md)
+4. [Modelo de Domínio](https://github.com/luciofdsantos/APS-2023.1-BCCurso/blob/main/docs/Modelo_de_Dominio.pdf)
 5. [Diagrama de Sequência de Sistema](https://github.com/luciofdsantos/APS-2023.1-BCCurso/blob/3388d049332d77e022343a6ea69cf0f86495ca1b/docs/Diagrama_Sequencia.pdf)
 6. [Projeto de Arquitetura](https://github.com/seu-usuario/seu-repositorio/blob/main/projeto_de_arquitetura.md)
 7. [Feedback sobre o Desenvolvimento](https://github.com/luciofdsantos/APS-2023.1-BCCurso/blob/main/docs/Feedback%20sobre%20o%20Desenvolvimento.md)
