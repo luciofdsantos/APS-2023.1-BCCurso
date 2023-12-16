@@ -1,0 +1,24 @@
+/* quero um cabeçalho que seja uma faixa azul escuro */
+
+.header{
+    background-color: #000080;
+    height: 50px;
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.texto_header{
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 00px;
+
+}

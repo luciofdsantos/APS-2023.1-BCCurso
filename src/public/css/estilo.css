@@ -1,0 +1,15 @@
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    color: #ffffff;
+    
+}
+.post.material-symbols-outlined{
+    font-size: 50px;
+}
+.btn-cadastrar{
+    margin-top: 10px;
+}
+
+.search-control{
+    margin-left: auto;
+}
